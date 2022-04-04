@@ -29,6 +29,7 @@
   background: radial-gradient(at top left, rgb(70, 136, 125), rgb(7, 24, 41));
 }
 
+
 .header__img__logo {
   width: 10rem;
   animation: rotation 5s infinite linear;
@@ -60,7 +61,10 @@
   border-top-left-radius: inherit;
   border-bottom-left-radius: inherit;
   background-color: rgb(48, 46, 46);
+  
 }
+
+
 
 .navbar__right {
   position: absolute;
@@ -90,6 +94,8 @@
   padding: 10px;
 }
 
+
+
 .section__link--left {
   border-top-left-radius: 50px;
   border-bottom-left-radius: 50px;
@@ -117,4 +123,10 @@ body {
   background-position-y:center;
   background-size: 100%;
 }
+
+
+
+
+
+
 
